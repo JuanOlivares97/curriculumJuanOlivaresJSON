@@ -1,0 +1,205 @@
+{
+  "basics": {
+    "name": "Juan Manuel Olivares",
+    "label": "Full Stack Developer y Analista de Datos con Mencion en Machine Learning",
+    "image": "/me.webp",
+    "email": "jua.olivares97@gmail.com",
+    "phone": "+56 964409666",
+    "url": "Pronto...",
+    "summary": "Titulado como Ingeniero Informático en el Instituto Profesional Duoc UC, he liderado proyectos internos en mi tiempo en la universidad y he trabajado como Analista de Datos en una empresa local",
+    "location": {
+      "address": "Camino Chorombo Alto SN",
+      "postalCode": "9620001",
+      "city": "Melipilla",
+      "countryCode": "CL",
+      "region": "Chile"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "juan-olivaresj",
+        "url": "https://www.linkedin.com/in/juan-olivaresj/"
+      },
+      {
+        "network": "GitHub",
+        "username": "JuanOlivares97",
+        "url": "https://github.com/JuanOlivares97"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "LavCom Manager",
+      "position": "Desarrollador Full Stack",
+      "startDate": "2024-08-13",
+      "endDate": null,
+      "summary": "Proyecto comenzado para el capstone de titulación de mi carrera, este proyecto será desarrollado en Svelte y MySql.",
+      "highlights": [
+        "Started the company"
+      ]
+    },
+    {
+      "name": "Ariztia S.A",
+      "url": "https://www.ariztiaatucasa.cl/",
+      "position": "Practicante Área de Bussiness Intelligence",
+      "startDate": "2022-12-24",
+      "endDate": "2023-02-28",
+      "summary": "Desarrollé e implemente porcesos almacenados, funciones y jobs para la realizacion de modelos estrella, además de la homologacion de datos provenientes de Sap Hana, Sap bo y Movex",
+      "highlights": [
+        "Started the company"
+      ]
+    }
+  ],
+  "education": [{
+    "institution": "Instituto Profesional DUOC UC",
+    "url": "www.duoc.cl",
+    "area": "Ingeniero en Informatica",
+    "studyType": "Titulo Profesional",
+    "startDate": "2023-03-01",
+    "endDate": null,
+    "score": "4.0",
+    "courses": [
+      "Mención en Machine Learning",
+      "Mención en Desarrollo de Software",
+      "Mención en Bases de Datos Relacionales",
+      "Mención en Calidad de Software",
+      "Mención en Ciencia de Datos"
+    ]
+  }],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermedio"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Laundry Manager",
+      "isActive": true,
+      "description": "Gestor de Inventario para la Lavanderia del Hospital San Jose De Melipilla",
+      "highlights": [
+        "Sveltekit",
+        "Hospital San Jose de Melipilla",
+        "En desarrollo"
+      ],
+      "url": "https://github.com/JuanOlivares97/laundry-manager"
+    },
+    {
+      "name": "Food Manager",
+      "isActive": true,
+      "description": "Gestor de las Colaciones y Comidas que son entregadas a funcionarios y pacientes en el Hospital San Jose De Melipilla",
+      "highlights": [
+        "Sveltekit",
+        "Hospital San Jose de Melipilla",
+        "En desarrollo"
+      ],
+      "github": "https://github.com/JuanOlivares97/food-manager"
+    },
+    {
+      "name": "Edutromu",
+      "isActive": true,
+      "description": "Dashboard realizado en Next.Js para Hackaton 2024 en DUOC UC",
+      "highlights": [
+        "Dashboard",
+        "Hackaton"
+      ],
+      "github": "https://github.com/JuanOlivares97/dashboard-edutromu"
+    },
+    {
+      "name": "Transportes Smart",
+      "isActive": true,
+      "description": "App para saber si el transantiago viene cerca de el paradero que te encuentra. Además podrás localizar el punto de recarga bip más cercano",
+      "highlights": [
+        "Next JS",
+        "Gratuito"
+      ],
+      "url": "transportesmart.vercel.app",
+      "github": "https://github.com/JuanOlivares97/transportesmart"
+    },
+    {
+      "name": "Sistema de Ventas Web",
+      "isActive": true,
+      "description": "Mi primer Proyecto en Java realizado para probar el leguaje en cuestion-",
+      "highlights": [
+        "1er Proyecto"
+      ],
+      "github": "https://github.com/JuanOlivares97/SistemaVentasJavaWEB"
+    }
+  ]
+}
